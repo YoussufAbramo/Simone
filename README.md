@@ -1,2 +1,2 @@
 # Simone
-This is open source project
+This is open source
